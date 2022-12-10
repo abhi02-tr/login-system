@@ -1,0 +1,30 @@
+body {
+  font-family: "Roboto", sans-serif;
+}
+.center-div {
+  padding-top: 10%;
+}
+
+.btn {
+  padding: 0.4em 2em;
+}
+
+form {
+  padding: 0.3em;
+}
+
+#login .title > span {
+  font-size: 0.8em;
+  
+}
+
+#login > div {
+    background-color: beige;
+    -webkit-box-shadow: -1px 4px 5px 8px rgba(204, 186, 204, 0.44);
+  -moz-box-shadow: -1px 4px 5px 8px rgba(204, 186, 204, 0.44);
+  box-shadow: -1px 4px 5px 8px rgba(204, 186, 204, 0.44);
+}
+
+input {
+    background-color: antiquewhite;
+}
